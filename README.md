@@ -2,10 +2,10 @@
 A simple Rock-Paper-Scissors game built in Java, where the player competes against the computer. The first to reach 5 points wins!
 
 ## Features
-1. Accepts input in any case (e.g., Rock, PAPER, sCiSsOrS)
-2. Game continues until either player reaches 5 points
-3. Tracks and displays scores after every round
-4. Announces the winner of each round
+1. Accepts input in any case (e.g., Rock, PAPER, sCiSsOrS).
+2. Game continues until either player reaches 5 points.
+3. Tracks and displays scores after every round.
+4. Announces the winner of each round.
 5. At the end, prints the final scores and declares the overall winner of the match.
 
 ## Output Sample 
