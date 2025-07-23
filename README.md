@@ -23,6 +23,8 @@ User has 3 points.
 Computer has 5 points.
 COMPUTER WON THE GAME. NOW AI WILL TAKE OVER THIS WORLD!!
 
+## Learning Note 
+This is my first Java project while learning Git/GitHub and Java fundamentals. I'm using it as a hands-on way to explore programming logic, version control, and game building.
 
 ## Author - Alankrita Shukla
 
